@@ -202,7 +202,7 @@ info.update = function (props) {
         '<strong>'+props.totalcrash+ ' ' + '</strong>' + 'Severe crashes ' + '</b><br />' +
         '<strong>'+props.ipd+ '  ' + '</strong>' + 'IPD ' + '</b><br />' +
         '<strong>'+props.elderly+ ' % ' + '</strong>' + 'Elderly ' + '</b><br />' +
-        '<strong>'+props.nonhsmn+ ' % ' + '</strong>' + 'Non-Hispanic Min ' + '</b><br />' +
+        '<strong>'+props.nonhismn+ ' % ' + '</strong>' + 'Non-Hispanic Min ' + '</b><br />' +
         '<strong>'+props.hispanic+ ' % ' + '</strong>' + 'Hispanic ' + '</b><br />' +
         '<strong>'+props.Disabled+ ' % ' + '</strong>' + 'Disabled % ' + '</b><br />' +
         '<strong>'+props.femhoh+ ' % ' + '</strong>' + 'Fem Head of Household ' + '</b><br />' +
