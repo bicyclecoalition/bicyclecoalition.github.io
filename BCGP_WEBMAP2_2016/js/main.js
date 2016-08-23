@@ -194,7 +194,7 @@ info.update = function (props) {
         '<strong>'+props.elderly+ ' % ' + '</strong>' + 'Elderly ' + '</b><br />' +
         '<strong>'+props.nonhsmn+ ' % ' + '</strong>' + 'Non-Hispanic Min ' + '</b><br />' +
         '<strong>'+props.hispanic+ ' % ' + '</strong>' + 'Hispanic ' + '</b><br />' +
-        '<strong>'+props.disabled+ ' % ' + '</strong>' + 'Disabled % ' + '</b><br />' +
+        '<strong>'+props.disabled+ ' % ' + '</strong>' + 'Disabled ' + '</b><br />' +
         '<strong>'+props.femhoh+ ' % ' + '</strong>' + 'Fem Head of Household ' + '</b><br />' +
         '<strong>'+props.poverty+ ' % ' + '</strong>' + 'Poverty ' + '</b><br />' +
         '<strong>'+props.carlesshh+ ' % ' + '</strong>' + 'Carless Households ' + '</b><br />' +
