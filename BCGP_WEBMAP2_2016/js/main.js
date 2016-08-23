@@ -200,7 +200,7 @@ info.update = function (props) {
         '<strong>'+props.carlesshh+ ' % ' + '</strong>' + 'Carless Households ' + '</b><br />' +
         '<strong>'+props.limeng+ ' % ' + '</strong>' + 'Limited Eng ' + '</b><br />'
 
-        : 'Hover over a tract');
+        : 'To view more info');
 };
 
 info.addTo(map);
